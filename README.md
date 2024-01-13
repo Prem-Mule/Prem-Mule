@@ -75,7 +75,7 @@
 
 
 <h3 align="left">Highlighted Projects 🚀</h3>
-
+<br>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- Project 1 -->
@@ -100,7 +100,7 @@
 
 </div>
 
-
+<br>
 
 
 
@@ -109,14 +109,14 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prem-Mule&theme=dracula" alt="GitHub Trophies" />
 </div>
-
+<br>
 <!-- GitHub Streak Stats -->
 <h3 align="left">GitHub Streak Stats ⚡</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-Mule&theme=dracula" alt="GitHub Streak Stats" />
 </p>
 
-
+<br>
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
