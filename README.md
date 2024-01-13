@@ -58,9 +58,12 @@
 <br clear="both">
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
+<!-- Snake animation -->
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="xMidYMid meet">
+  <g transform="translate(400,200)">
+    <path d="M26.7,-31.9C38.3,-23.8,50.7,-17.9,59.7,-8.4C68.6,1.1,74.1,14.1,70.7,26.9C67.3,39.7,54.9,52.2,42.3,59.5C29.8,66.7,17.1,68.8,5.6,64.3C-5.9,59.8,-11.8,48.7,-16.3,37.3C-20.7,25.8,-23.7,14.1,-28,2.8C-32.2,-8.4,-38,-16.9,-38.5,-28.6C-39,-40.4,-34.3,-55.3,-24.5,-63.5C-14.7,-71.7,-0.9,-73.2,12.6,-73.4C26,-73.6,52.1,-72.6,60.2,-63.6C68.3,-54.6,58.5,-37.7,51.4,-23.5C44.3,-9.3,39.9,1.2,26.7,-31.9Z" fill="#00ACC1" />
+  </g>
+</svg>
 
 
 ###
