@@ -72,50 +72,6 @@
 
 
 <!-- Projects Section -->
-<style>
- 
-  .project-card {
-    width: 300px;
-    padding: 20px;
-    border: 1px solid #e1e4e8;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out;
-  }
-
-  .project-card:hover {
-    transform: scale(1.05);
-  }
-
-
-  .project-thumbnail {
-    width: 100%;
-    height: auto; 
-    max-height: 150px; 
-    object-fit: cover;
-    border-radius: 8px;
-    margin-bottom: 10px;
-  }
-
-
-  .project-title {
-    margin-bottom: 10px;
-    font-size: 18px;
-    color: #0366d6;
-    text-decoration: none;
-    transition: color 0.3s ease-in-out;
-  }
-
-  .project-title:hover {
-    color: #032f62;
-  }
-
-  .project-description {
-    font-size: 14px;
-    color: #586069;
-    margin: 0;
-  }
-</style>
 
 
 <h3 align="left">Highlighted Projects 🚀</h3>
