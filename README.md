@@ -115,7 +115,7 @@
 
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Platnae/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platanae/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <!-- Clear Float -->
 <br clear="both">
