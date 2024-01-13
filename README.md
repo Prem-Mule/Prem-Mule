@@ -78,10 +78,27 @@
   <!-- Project 1 -->
   <div style="margin-bottom: 15px;">
     <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="text-decoration: none;">
-      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAxklEQVR42mJ88+/8/AyRbA/IIqF4SW4Tod6ZkVJwCKYDUStLlgQrACqgbwPHkwAqhELPjZLp4QYh4E4kkA9hEKMKbXg8aC6QDjQKlARHkwQV1mAdBtJckCdBKFGEALcRmAEKIQrQAqUARKwCRRIksxQCAq2AQL5FZmkUswAAAABJRU5ErkJggg==" alt="Project 1 Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="URL_TO_YOUR_PROJECT_1_THUMBNAIL" alt="Amazon-Frontend-Replica Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </a>
     <div style="display: inline-block; vertical-align: top;">
-      <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.git
+      <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="color: #0366d6; text-decoration: none;">Amazon-Frontend-Replica</a></h4>
+      <p style="font-size: 14px; color: #586069; margin: 0;">Crafted a stunning replica of Amazon's frontend with pixel-perfect precision. Explore the world of e-commerce through this immersive project.</p>
+    </div>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="margin-bottom: 15px;">
+    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="text-decoration: none;">
+      <img src="URL_TO_YOUR_PROJECT_2_THUMBNAIL" alt="AppleVisionClone-Project Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </a>
+    <div style="display: inline-block; vertical-align: top;">
+      <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="color: #0366d6; text-decoration: none;">AppleVisionClone-Project</a></h4>
+      <p style="font-size: 14px; color: #586069; margin: 0;">Recreated Apple's cutting-edge computer vision technology. Dive into the future of image recognition with this groundbreaking project.</p>
+    </div>
+  </div>
+
+  <!-- Add more projects following the same structure -->
+</div>
 
 
 
