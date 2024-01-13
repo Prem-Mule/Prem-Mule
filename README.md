@@ -90,7 +90,8 @@
   /* Thumbnail Styling */
   .project-thumbnail {
     width: 100%;
-    height: 150px;
+    height: auto; /* Allow the height to adjust automatically based on the width */
+    max-height: 150px; /* Set a maximum height */
     object-fit: cover;
     border-radius: 8px;
     margin-bottom: 10px;
