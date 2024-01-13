@@ -73,7 +73,7 @@
 
 <!-- Projects Section -->
 <style>
-  /* Project Card Styling */
+ 
   .project-card {
     width: 300px;
     padding: 20px;
@@ -87,17 +87,17 @@
     transform: scale(1.05);
   }
 
-  /* Thumbnail Styling */
+
   .project-thumbnail {
     width: 100%;
-    height: auto; /* Allow the height to adjust automatically based on the width */
-    max-height: 150px; /* Set a maximum height */
+    height: auto; 
+    max-height: 150px; 
     object-fit: cover;
     border-radius: 8px;
     margin-bottom: 10px;
   }
 
-  /* Project Title Styling */
+
   .project-title {
     margin-bottom: 10px;
     font-size: 18px;
@@ -110,7 +110,6 @@
     color: #032f62;
   }
 
-  /* Project Description Styling */
   .project-description {
     font-size: 14px;
     color: #586069;
@@ -118,7 +117,7 @@
   }
 </style>
 
-<!-- Highlighted Projects Section -->
+
 <h3 align="left">Highlighted Projects 🚀</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
