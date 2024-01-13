@@ -70,12 +70,24 @@
 
 
 <!-- Projects Section -->
-<h3 align="left">Highlighted Projects</h3>
+<!-- Highlighted Projects Section -->
+<h3 align="left">Highlighted Projects 🚀</h3>
 <ul>
-  <li><a href=" https://prem-mule.github.io/Amazon-Frontend-Replica/">Project 1</a>Amazon-Frontend-Replica</li>
-  <li><a href="https://prem-mule.github.io/AppleVisionClone-Project/">Project 2</a>AppleVisionClone-Project</li>
+  <li>
+    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="text-decoration:none; color:#0366d6;">
+      <strong>Amazon Frontend Replica</strong>
+    </a>
+    - Recreated the frontend of Amazon.
+  </li>
+  <li>
+    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="text-decoration:none; color:#0366d6;">
+      <strong>Apple Vision Clone Project</strong>
+    </a>
+    - A clone project inspired by Apple Vision.
+  </li>
   <!-- Add more projects with descriptions -->
 </ul>
+
 
 <!-- GitHub Trophies -->
 <div align="center">
