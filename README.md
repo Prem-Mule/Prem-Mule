@@ -75,7 +75,6 @@
 <style>
   /* Project Card Styling */
   .project-card {
-    position: relative;
     width: 300px;
     padding: 20px;
     border: 1px solid #e1e4e8;
@@ -91,8 +90,8 @@
   /* Thumbnail Styling */
   .project-thumbnail {
     width: 100%;
-    height: auto;
-    max-height: 150px;
+    height: auto; /* Allow the height to adjust automatically based on the width */
+    max-height: 150px; /* Set a maximum height */
     object-fit: cover;
     border-radius: 8px;
     margin-bottom: 10px;
@@ -100,36 +99,22 @@
 
   /* Project Title Styling */
   .project-title {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    opacity: 0;
+    margin-bottom: 10px;
     font-size: 18px;
     color: #0366d6;
     text-decoration: none;
-    transition: opacity 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
   }
 
-  .project-card:hover .project-title {
-    opacity: 1;
+  .project-title:hover {
+    color: #032f62;
   }
 
   /* Project Description Styling */
   .project-description {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    opacity: 0;
     font-size: 14px;
     color: #586069;
     margin: 0;
-    transition: opacity 0.3s ease-in-out;
-  }
-
-  .project-card:hover .project-description {
-    opacity: 1;
   }
 </style>
 
@@ -140,25 +125,26 @@
 
   <!-- Project 1 -->
   <div class="project-card">
-    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica" class="project-title">
+    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" class="project-title">
       <img src="https://i.imgur.com/S4CTd8h.png" alt="Amazon-Frontend-Replica Thumbnail" class="project-thumbnail">
-      Amazon-Frontend-Replica
     </a>
+    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" class="project-title">Amazon-Frontend-Replica</a>
     <p class="project-description">Crafted a stunning replica of Amazon's frontend with pixel-perfect precision. Explore the world of e-commerce through this immersive project.</p>
   </div>
 
   <!-- Project 2 -->
   <div class="project-card">
-    <a href="https://prem-mule.github.io/AppleVisionClone-Project" class="project-title">
+    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" class="project-title">
       <img src="https://i.imgur.com/sOs3IPt.jpg" alt="AppleVisionClone-Project Thumbnail" class="project-thumbnail">
-      AppleVisionClone-Project
     </a>
+    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" class="project-title">AppleVisionClone-Project</a>
     <p class="project-description">Recreated Apple's cutting-edge computer vision technology. Dive into the future of image recognition with this groundbreaking project.</p>
   </div>
 
   <!-- Add more projects following the same structure -->
 
 </div>
+
 
 
 
