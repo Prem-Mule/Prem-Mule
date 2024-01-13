@@ -91,7 +91,7 @@
   <!-- Project 2 -->
   <div style="margin-bottom: 15px;">
     <a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="text-decoration: none;">
-      <img src="URL_TO_YOUR_PROJECT_2_THUMBNAIL" alt="AppleVisionClone-Project Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="https://i.imgur.com/sOs3IPt.jpg" alt="AppleVisionClone-Project Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </a>
     <div style="display: inline-block; vertical-align: top;">
       <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="color: #0366d6; text-decoration: none;">AppleVisionClone-Project</a></h4>
