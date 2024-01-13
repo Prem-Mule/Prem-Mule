@@ -75,32 +75,35 @@
 <!-- Highlighted Projects Section -->
 <h3 align="left">Highlighted Projects 🚀</h3>
 
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- Project 1 -->
-  <div style="margin-bottom: 15px;">
+  <div style="width: 300px; padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="text-decoration: none;">
-      <img src="https://i.imgur.com/S4CTd8h.png" alt="Amazon-Frontend-Replica Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="https://i.imgur.com/S4CTd8h.png" alt="Amazon-Frontend-Replica Thumbnail" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; margin-bottom: 10px;">
     </a>
-    <div style="display: inline-block; vertical-align: top;">
-      <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="color: #0366d6; text-decoration: none;">Amazon-Frontend-Replica</a></h4>
-      <p style="font-size: 14px; color: #586069; margin: 0;">Crafted a stunning replica of Amazon's frontend with pixel-perfect precision. Explore the world of e-commerce through this immersive project.</p>
-    </div>
+    <h4 style="margin-bottom: 10px;"><a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="color: #0366d6; text-decoration: none;">Amazon-Frontend-Replica</a></h4>
+    <p style="font-size: 14px; color: #586069; margin: 0;">Crafted a stunning replica of Amazon's frontend with pixel-perfect precision. Explore the world of e-commerce through this immersive project.</p>
   </div>
 
   <!-- Project 2 -->
-  <div style="margin-bottom: 15px;">
+  <div style="width: 300px; padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="text-decoration: none;">
-      <img src="https://i.imgur.com/sOs3IPt.jpg" alt="AppleVisionClone-Project Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="https://i.imgur.com/sOs3IPt.jpg" alt="AppleVisionClone-Project Thumbnail" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; margin-bottom: 10px;">
     </a>
-    <div style="display: inline-block; vertical-align: top;">
-      <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="color: #0366d6; text-decoration: none;">AppleVisionClone-Project</a></h4>
-      <p style="font-size: 14px; color: #586069; margin: 0;">Recreated Apple's cutting-edge computer vision technology. Dive into the future of image recognition with this groundbreaking project.</p>
-    </div>
+    <h4 style="margin-bottom: 10px;"><a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="color: #0366d6; text-decoration: none;">AppleVisionClone-Project</a></h4>
+    <p style="font-size: 14px; color: #586069; margin: 0;">Recreated Apple's cutting-edge computer vision technology. Dive into the future of image recognition with this groundbreaking project.</p>
   </div>
 
   <!-- Add more projects following the same structure -->
+
 </div>
+
+<!-- Animated Icons -->
+<div align="center">
+  <!-- Add your animated icons or any other animated content here -->
+</div>
+
 
 
 
