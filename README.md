@@ -78,27 +78,10 @@
   <!-- Project 1 -->
   <div style="margin-bottom: 15px;">
     <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="text-decoration: none;">
-      <img src="https://via.placeholder.com/150" alt="Project 1 Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAxklEQVR42mJ88+/8/AyRbA/IIqF4SW4Tod6ZkVJwCKYDUStLlgQrACqgbwPHkwAqhELPjZLp4QYh4E4kkA9hEKMKbXg8aC6QDjQKlARHkwQV1mAdBtJckCdBKFGEALcRmAEKIQrQAqUARKwCRRIksxQCAq2AQL5FZmkUswAAAABJRU5ErkJggg==" alt="Project 1 Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </a>
     <div style="display: inline-block; vertical-align: top;">
-      <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="color: #0366d6; text-decoration: none;">Amazon-Frontend-Replica</a></h4>
-      <p style="font-size: 14px; color: #586069; margin: 0;">A brief description of Project 1 goes here.</p>
-    </div>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="margin-bottom: 15px;">
-    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="text-decoration: none;">
-      <img src="https://via.placeholder.com/150" alt="Project 2 Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </a>
-    <div style="display: inline-block; vertical-align: top;">
-      <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="color: #0366d6; text-decoration: none;">AppleVisionClone-Project</a></h4>
-      <p style="font-size: 14px; color: #586069; margin: 0;">A brief description of Project 2 goes here.</p>
-    </div>
-  </div>
-
-  <!-- Add more projects following the same structure -->
-</div>
+      <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.git
 
 
 
