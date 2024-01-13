@@ -72,21 +72,34 @@
 <!-- Projects Section -->
 <!-- Highlighted Projects Section -->
 <h3 align="left">Highlighted Projects 🚀</h3>
-<ul>
-  <li>
-    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="text-decoration:none; color:#0366d6;">
-      <strong>Amazon Frontend Replica</strong>
+
+<div align="left">
+
+  <!-- Project 1 -->
+  <div style="margin-bottom: 15px;">
+    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="text-decoration: none;">
+      <img src="https://via.placeholder.com/150" alt="Project 1 Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </a>
-    - Recreated the frontend of Amazon.
-  </li>
-  <li>
-    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="text-decoration:none; color:#0366d6;">
-      <strong>Apple Vision Clone Project</strong>
+    <div style="display: inline-block; vertical-align: top;">
+      <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="color: #0366d6; text-decoration: none;">Amazon-Frontend-Replica</a></h4>
+      <p style="font-size: 14px; color: #586069; margin: 0;">A brief description of Project 1 goes here.</p>
+    </div>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="margin-bottom: 15px;">
+    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="text-decoration: none;">
+      <img src="https://via.placeholder.com/150" alt="Project 2 Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border-radius: 8px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </a>
-    - A clone project inspired by Apple Vision.
-  </li>
-  <!-- Add more projects with descriptions -->
-</ul>
+    <div style="display: inline-block; vertical-align: top;">
+      <h4 style="margin-bottom: 5px;"><a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="color: #0366d6; text-decoration: none;">AppleVisionClone-Project</a></h4>
+      <p style="font-size: 14px; color: #586069; margin: 0;">A brief description of Project 2 goes here.</p>
+    </div>
+  </div>
+
+  <!-- Add more projects following the same structure -->
+</div>
+
 
 
 <!-- GitHub Trophies -->
@@ -94,11 +107,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Prem-Mule&theme=dracula" alt="GitHub Trophies" />
 </div>
 
-<!-- GitHub Activity Graph -->
-<h3 align="left">GitHub Activity</h3>
+<!-- GitHub Streak Stats -->
+<h3 align="left">GitHub Streak Stats ⚡</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Prem-Mule&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-Mule&theme=dracula" alt="GitHub Streak Stats" />
 </p>
+
 
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
