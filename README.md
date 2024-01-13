@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="500" height="500" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8c7cne"></iframe></div><p><a href="https://imgflip.com/gif/8c7cne">via Imgflip</a></p></div>"  />
+
 
 ###
 
@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
   <img width="12" />
