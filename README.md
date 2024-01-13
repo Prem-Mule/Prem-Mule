@@ -7,9 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Prem-Mule&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prem-Mule&layout=compact&card_width=320&theme=dracula" height="150" alt="Top Languages" />
 </div>
-
+<br>
 <img align="right" height="150" src="https://i.imgur.com/jF619Xx.png"  />
-
+<br>
 <!-- Tech Stack -->
 <h3 align="left">Tech Stack</h3>
 <div align="left">
@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
 </div>
-
+<br>
 <!-- Animated Icons -->
 <div align="center">
  
