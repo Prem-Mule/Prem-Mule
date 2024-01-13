@@ -68,6 +68,26 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Code Animation" width="500" />
 </p>
 
+
+<!-- Projects Section -->
+<h3 align="left">Highlighted Projects</h3>
+<ul>
+  <li><a href=" https://prem-mule.github.io/Amazon-Frontend-Replica/">Project 1</a>Amazon-Frontend-Replica</li>
+  <li><a href="https://prem-mule.github.io/AppleVisionClone-Project/">Project 2</a>AppleVisionClone-Project</li>
+  <!-- Add more projects with descriptions -->
+</ul>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prem-Mule&theme=dracula" alt="GitHub Trophies" />
+</div>
+
+<!-- GitHub Activity Graph -->
+<h3 align="left">GitHub Activity</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Prem-Mule&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
