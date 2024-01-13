@@ -58,6 +58,19 @@
   </a>
 </div>
 
+<!-- Animated Icons -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-Frontend-ffb13b?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Icon" />
+  <img src="https://img.shields.io/badge/-Backend-4285f4?style=for-the-badge&logo=python&logoColor=white" alt="Backend Icon" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Icon" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Icon" />
+</div>
+
+<!-- Code Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Code Animation" width="500" />
+</p>
+
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
