@@ -72,37 +72,78 @@
 
 
 <!-- Projects Section -->
+<style>
+  /* Project Card Styling */
+  .project-card {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #e1e4e8;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .project-card:hover {
+    transform: scale(1.05);
+  }
+
+  /* Thumbnail Styling */
+  .project-thumbnail {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+
+  /* Project Title Styling */
+  .project-title {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #0366d6;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+  }
+
+  .project-title:hover {
+    color: #032f62;
+  }
+
+  /* Project Description Styling */
+  .project-description {
+    font-size: 14px;
+    color: #586069;
+    margin: 0;
+  }
+</style>
+
 <!-- Highlighted Projects Section -->
 <h3 align="left">Highlighted Projects 🚀</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- Project 1 -->
-  <div style="width: 300px; padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="text-decoration: none;">
-      <img src="https://i.imgur.com/S4CTd8h.png" alt="Amazon-Frontend-Replica Thumbnail" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; margin-bottom: 10px;">
+  <div class="project-card">
+    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" class="project-title">
+      <img src="https://i.imgur.com/S4CTd8h.png" alt="Amazon-Frontend-Replica Thumbnail" class="project-thumbnail">
     </a>
-    <h4 style="margin-bottom: 10px;"><a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" style="color: #0366d6; text-decoration: none;">Amazon-Frontend-Replica</a></h4>
-    <p style="font-size: 14px; color: #586069; margin: 0;">Crafted a stunning replica of Amazon's frontend with pixel-perfect precision. Explore the world of e-commerce through this immersive project.</p>
+    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" class="project-title">Amazon-Frontend-Replica</a>
+    <p class="project-description">Crafted a stunning replica of Amazon's frontend with pixel-perfect precision. Explore the world of e-commerce through this immersive project.</p>
   </div>
 
   <!-- Project 2 -->
-  <div style="width: 300px; padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="text-decoration: none;">
-      <img src="https://i.imgur.com/sOs3IPt.jpg" alt="AppleVisionClone-Project Thumbnail" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; margin-bottom: 10px;">
+  <div class="project-card">
+    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" class="project-title">
+      <img src="https://i.imgur.com/sOs3IPt.jpg" alt="AppleVisionClone-Project Thumbnail" class="project-thumbnail">
     </a>
-    <h4 style="margin-bottom: 10px;"><a href="https://prem-mule.github.io/AppleVisionClone-Project/" style="color: #0366d6; text-decoration: none;">AppleVisionClone-Project</a></h4>
-    <p style="font-size: 14px; color: #586069; margin: 0;">Recreated Apple's cutting-edge computer vision technology. Dive into the future of image recognition with this groundbreaking project.</p>
+    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" class="project-title">AppleVisionClone-Project</a>
+    <p class="project-description">Recreated Apple's cutting-edge computer vision technology. Dive into the future of image recognition with this groundbreaking project.</p>
   </div>
 
   <!-- Add more projects following the same structure -->
 
 </div>
 
-<!-- Animated Icons -->
-<div align="center">
-  <!-- Add your animated icons or any other animated content here -->
-</div>
 
 
 
