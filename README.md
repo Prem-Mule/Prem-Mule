@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
 </div>
-
+<br>
 <!-- Social Media Badges -->
 <h3 align="left">Connect with Me</h3>
 <div align="left">
@@ -70,7 +70,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Code Animation" width="500" />
 </p>
 
-
+<br>
 <!-- Projects Section -->
 
 
