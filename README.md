@@ -8,7 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prem-Mule&layout=compact&card_width=320&theme=dracula" height="150" alt="Top Languages" />
 </div>
 <br>
-<img align="right" height="350" src="https://i.imgur.com/wqFL3RT.png"  />
+<img width=""/>
+<img align="right" height="350" src="https://i.postimg.cc/B6LytcG5/Prem-Mule-Passport-Photo-removebg-preview.png"  />
 <br>
 <!-- Tech Stack -->
 <h3 align="left">Tech Stack</h3>
