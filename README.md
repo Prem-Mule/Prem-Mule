@@ -98,11 +98,11 @@
 
   <tr>
     <td valign="top"> 
-      <div class="project-card">
-        <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" class="project-title">
-          <img src="https://i.imgur.com/S4CTd8h.png" width='600' height='300' alt="Amazon-Frontend-Replica Thumbnail" class="project-thumbnail">
-        </a>
-        <p class="project-description">Crafted a stunning replica of Amazon's frontend with pixel-perfect precision. Explore the world of e-commerce through this immersive project.</p>
+       <div class="project-card">
+        <a href="https://prem-mule.github.io/AppleVisionClone-Project/" class="project-title">
+          <img src="https://i.imgur.com/sOs3IPt.jpg" alt="AppleVisionClone-Project Thumbnail" width='500' height='300' class="project-thumbnail">
+      </a>
+      <p class="project-description">Recreated Apple's cutting-edge computer vision technology. Dive into the future of image recognition with this groundbreaking project.</p>
   </div></td>
     <td valign="top"> 
       <!-- Project 2 -->
