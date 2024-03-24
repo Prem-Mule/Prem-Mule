@@ -77,22 +77,47 @@
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- Project 1 -->
-  <div class="project-card">
-    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" class="project-title">
-      <img src="https://i.imgur.com/S4CTd8h.png" alt="Amazon-Frontend-Replica Thumbnail" class="project-thumbnail">
-    </a>
-    <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" class="project-title">Amazon-Frontend-Replica</a>
-    <p class="project-description">Crafted a stunning replica of Amazon's frontend with pixel-perfect precision. Explore the world of e-commerce through this immersive project.</p>
-  </div>
+  <table>
+  <tr>
+    <td valign="top"> 
+      <div class="project-card">
+        <a href="https://ochidesign-showcase-app.onrender.com" class="project-title">
+          <img src="https://i.ibb.co/9sNqhH3/ochidesign-Showcaseapp-SS.png" width='600' height='300' alt="Amazon-Frontend-Replica Thumbnail" class="project-thumbnail">
+        </a>
+        <p class="project-description">OchiDesign Showcase, a React Vite app, showcases innovative design projects with captivating animations. Explore a world of creativity and inspiration brought to life through motion.</p>
+  </div></td>
+    <td valign="top"> 
+      <!-- Project 2 -->
+      <div class="project-card">
+        <a href="https://prem-mule.github.io/LUMINE-Fashion_Hub/" class="project-title">
+          <img src="https://i.ibb.co/VQ310cF/Lumine-Fashionhub-SS.png" alt="Lumine-Fashionhub-SS" width='500' height='300' class="project-thumbnail">
+      </a>
+      <p class="project-description">Lumine FashionHub is a vibrant marketplace for fashion enthusiasts, offering a seamless shopping experience with captivating animations and dynamic features. Explore a world of style and sophistication in this innovative frontend repository.</p>
+  </div></td>
+</tr>
 
-  <!-- Project 2 -->
-  <div class="project-card">
-    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" class="project-title">
-      <img src="https://i.imgur.com/sOs3IPt.jpg" alt="AppleVisionClone-Project Thumbnail" class="project-thumbnail">
-    </a>
-    <a href="https://prem-mule.github.io/AppleVisionClone-Project/" class="project-title">AppleVisionClone-Project</a>
-    <p class="project-description">Recreated Apple's cutting-edge computer vision technology. Dive into the future of image recognition with this groundbreaking project.</p>
-  </div>
+  <tr>
+    <td valign="top"> 
+      <div class="project-card">
+        <a href="https://prem-mule.github.io/Amazon-Frontend-Replica/" class="project-title">
+          <img src="https://i.imgur.com/S4CTd8h.png" width='600' height='300' alt="Amazon-Frontend-Replica Thumbnail" class="project-thumbnail">
+        </a>
+        <p class="project-description">Crafted a stunning replica of Amazon's frontend with pixel-perfect precision. Explore the world of e-commerce through this immersive project.</p>
+  </div></td>
+    <td valign="top"> 
+      <!-- Project 2 -->
+      <div class="project-card">
+        <a href="https://aura-cart-store-frontend.vercel.app/" class="project-title">
+          <img src="https://i.postimg.cc/4xBdcmBf/Auracart-ss.png" alt="Auracart-Project Thumbnail" width='500' height='300' class="project-thumbnail">
+      </a>
+      <p class="project-description">AuraCart revolutionizes e-commerce with its intuitive platform, streamlining shopping for users and providing a reliable marketplace for buyers and sellers alike</p>
+  </div></td>
+  </tr>
+   
+</table>
+ 
+
+
 
   <!-- Add more projects following the same structure -->
 
