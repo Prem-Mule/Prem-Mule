@@ -4,7 +4,8 @@
 
 <!-- Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem-Mule&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" height="150" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Prem-Mule&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" height="150" alt="GitHub Stats" /> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=Prem-Mule&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prem-Mule&layout=compact&card_width=320&theme=dracula" height="150" alt="Top Languages" />
 </div>
 <br>
