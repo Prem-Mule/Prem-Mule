@@ -10,7 +10,8 @@
 </div>
 <br>
 <img width=""/>
-<img align="right" height="350" src="https://i.postimg.cc/B6LytcG5/Prem-Mule-Passport-Photo-removebg-preview.png"  />
+<!-- <img align="right" height="350" src="https://i.postimg.cc/B6LytcG5/Prem-Mule-Passport-Photo-removebg-preview.png"  /> -->
+<img align="right" height="350" src="https://ik.imagekit.io/prem1719/unnamed%20(61).png?updatedAt=1760097002937"/>
 <br>
 <!-- Tech Stack -->
 <h3 align="left">Tech Stack</h3>
